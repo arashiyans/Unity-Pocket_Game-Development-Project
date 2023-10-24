@@ -1,14 +1,13 @@
 # Unity-Pocket_Game-Development-Project
 
-Panduan Penggunaan Proyek Unity
-Selamat datang dalam proyek Unity ini! Proyek ini dirancang untuk tujuan penelitian dan pembelajaran, dan kami sangat senang bahwa Anda tertarik untuk mempelajarinya. Dalam README ini, kami akan memberikan panduan langkah demi langkah tentang cara menggunakan proyek ini.
+Unity Project Usage Guide
+Welcome to this Unity project! This project is designed for research and learning purposes, and we are delighted that you are interested in studying it. In this README, we will provide a step-by-step guide on how to use this project.
 
-# Deskripsi Proyek
+# Project Description
+Requirements
+Before you get started, make sure your computer meets the following requirements:
 
-Persyaratan
-Sebelum Anda mulai, pastikan komputer Anda memenuhi persyaratan berikut:
-
-Unity Hub terinstal (versi yang disarankan: [https://unity.com/download])
+Installed Unity Hub (recommended version: [https://unity.com/download])
 Unity Hub system requirements :
 OS: 
 Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.13+; Ubuntu 16.04, 18.04, and CentOS 7.
@@ -16,38 +15,36 @@ Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.13+; Ubuntu 16.04, 18.0
 GPU: 
 Graphics card with DX10 (shader model 4.0) capabilities.
 
-# Cara Menggunakan Proyek
-Berikut adalah langkah-langkah untuk memulai menggunakan proyek ini:
+# How to Use the Project
+Here are the steps to get started with this project:
 
-1. Clone Repository
-Clone repositori ini ke komputer Anda menggunakan perintah berikut:
+Clone the Repository
+Clone this repository to your computer using the following command:
 bash
 Copy code
 git clone [URL repositori](https://github.com/arashiyans/Unity-Pocket_Game-Development-Project.git)
 
-2. Buka Proyek
-Buka Unity Hub.
-Klik "Add" dan pilih folder proyek ini.
-Mengimpor Proyek
+2. Open the Project
+Open Unity Hub.
+Click "Add" and select the folder of this project.
 
-3. Pada panel "Projects", pilih proyek ini dan klik "Open."
-Unity akan memulai proses impor proyek. Ini mungkin memerlukan beberapa saat tergantung pada ukuran proyek.
+3. Import the Project
+In the "Projects" panel, select this project and click "Open."
+Unity will initiate the project import process. This may take a moment depending on the project's size.
 
-4. Jelajahi Proyek
-Setelah proses impor selesai, Anda dapat menjelajahi proyek dan melihat semua sumber daya, skrip, dan objek dalam Unity Editor.
+4. Explore the Project
+Once the import process is complete, you can explore the project and view all the assets, scripts, and objects in the Unity Editor.
 
-5. Menjalankan Proyek
-Untuk menjalankan proyek, buka "Scenes" di panel "Project" dan pilih adegan utama.
-Klik tombol "Play" di Unity Editor untuk menjalankan permainan atau simulasi.
-Belajar dan Bereksperimen
+5. Run the Project
+To run the project, open the "Scenes" in the "Project" panel and select the main scene.
+Click the "Play" button in the Unity Editor to start the game or simulation.
 
-Selamat! Anda sekarang dapat mulai mempelajari, mengubah, atau mengeksperimenkan proyek ini sesuai dengan tujuan penelitian atau pembelajaran Anda.
-Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini atau melaporkan masalah, kami sangat menghargai bantuan Anda. Silakan buka masalah baru atau kirimkan pull request ke repositori ini.
+6. Learn and Experiment
+Congratulations! You can now start learning, modifying, or experimenting with this project according to your research or learning goals.
 
 # Lisensi
-[Spesifikasikan lisensi yang berlaku untuk proyek Anda.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+[Specify the applicable license for your project.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 # Kontak
-Jika Anda memiliki pertanyaan atau butuh bantuan, jangan ragu untuk menghubungi kami.
-Terima kasih sudah menggunakan proyek ini! Kami berharap proyek ini bermanfaat untuk tujuan penelitian dan pembelajaran Anda.
+If you have any questions or need assistance, please feel free to contact us.
+Thank you for using this project! We hope it serves your research and learning objectives well.
