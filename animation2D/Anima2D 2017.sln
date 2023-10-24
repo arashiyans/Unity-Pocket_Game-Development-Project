@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima2D 2017", "Assembly-CSharp.csproj", "{990B7D33-E934-6DAC-7CFF-9F4B58D733E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima2D 2017", "Assembly-CSharp-Editor.csproj", "{C092623D-5A07-0004-2605-880856DA2864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990B7D33-E934-6DAC-7CFF-9F4B58D733E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990B7D33-E934-6DAC-7CFF-9F4B58D733E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990B7D33-E934-6DAC-7CFF-9F4B58D733E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990B7D33-E934-6DAC-7CFF-9F4B58D733E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C092623D-5A07-0004-2605-880856DA2864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C092623D-5A07-0004-2605-880856DA2864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C092623D-5A07-0004-2605-880856DA2864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C092623D-5A07-0004-2605-880856DA2864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
