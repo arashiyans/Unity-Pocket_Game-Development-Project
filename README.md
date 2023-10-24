@@ -1,4 +1,4 @@
-# Unity-Pocket-_Game-Development-Project
+# Unity-Pocket_Game-Development-Project
 
 Panduan Penggunaan Proyek Unity
 Selamat datang dalam proyek Unity ini! Proyek ini dirancang untuk tujuan penelitian dan pembelajaran, dan kami sangat senang bahwa Anda tertarik untuk mempelajarinya. Dalam README ini, kami akan memberikan panduan langkah demi langkah tentang cara menggunakan proyek ini.
@@ -23,7 +23,7 @@ Berikut adalah langkah-langkah untuk memulai menggunakan proyek ini:
 Clone repositori ini ke komputer Anda menggunakan perintah berikut:
 bash
 Copy code
-git clone [URL repositori]
+git clone [URL repositori](https://github.com/arashiyans/Unity-Pocket_Game-Development-Project.git)
 
 2. Buka Proyek
 Buka Unity Hub.
@@ -46,9 +46,8 @@ Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini atau melaporkan masalah, kami sangat menghargai bantuan Anda. Silakan buka masalah baru atau kirimkan pull request ke repositori ini.
 
 # Lisensi
-[Spesifikasikan lisensi yang berlaku untuk proyek Anda.]
+[Spesifikasikan lisensi yang berlaku untuk proyek Anda.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 # Kontak
-Jika Anda memiliki pertanyaan atau butuh bantuan, jangan ragu untuk menghubungi kami melalui [alamat email atau cara komunikasi lain yang Anda tentukan].
-
+Jika Anda memiliki pertanyaan atau butuh bantuan, jangan ragu untuk menghubungi kami.
 Terima kasih sudah menggunakan proyek ini! Kami berharap proyek ini bermanfaat untuk tujuan penelitian dan pembelajaran Anda.
