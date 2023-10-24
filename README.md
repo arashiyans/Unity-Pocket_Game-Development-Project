@@ -8,32 +8,35 @@ Selamat datang dalam proyek Unity ini! Proyek ini dirancang untuk tujuan penelit
 Persyaratan
 Sebelum Anda mulai, pastikan komputer Anda memenuhi persyaratan berikut:
 
-Unity Hub terinstal (versi yang disarankan: [versi])
-Unity Editor terinstal (versi yang disarankan: [versi])
-[Persyaratan lain, jika ada, seperti sistem operasi, perangkat keras, dll.]
+Unity Hub terinstal (versi yang disarankan: [https://unity.com/download])
+Unity Hub system requirements :
+OS: 
+Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.13+; Ubuntu 16.04, 18.04, and CentOS 7.
+
+GPU: 
+Graphics card with DX10 (shader model 4.0) capabilities.
 
 # Cara Menggunakan Proyek
 Berikut adalah langkah-langkah untuk memulai menggunakan proyek ini:
 
-Clone Repository
+1. Clone Repository
 Clone repositori ini ke komputer Anda menggunakan perintah berikut:
-
 bash
 Copy code
 git clone [URL repositori]
-Buka Proyek
 
+2. Buka Proyek
 Buka Unity Hub.
 Klik "Add" dan pilih folder proyek ini.
 Mengimpor Proyek
 
-Pada panel "Projects", pilih proyek ini dan klik "Open."
+3. Pada panel "Projects", pilih proyek ini dan klik "Open."
 Unity akan memulai proses impor proyek. Ini mungkin memerlukan beberapa saat tergantung pada ukuran proyek.
-Jelajahi Proyek
 
+4. Jelajahi Proyek
 Setelah proses impor selesai, Anda dapat menjelajahi proyek dan melihat semua sumber daya, skrip, dan objek dalam Unity Editor.
-Menjalankan Proyek
 
+5. Menjalankan Proyek
 Untuk menjalankan proyek, buka "Scenes" di panel "Project" dan pilih adegan utama.
 Klik tombol "Play" di Unity Editor untuk menjalankan permainan atau simulasi.
 Belajar dan Bereksperimen
